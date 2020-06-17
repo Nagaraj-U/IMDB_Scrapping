@@ -1,0 +1,849 @@
+[
+    {
+        "Title": "The Shawshank Redemption ",
+        "Year": "1994",
+        "Duration": "2h 22min",
+        "Genre": "Drama",
+        "Rating": "The Shawshank Redemption ",
+        "movie_url": "https://www.imdb.com/title/tt0111161/"
+    },
+    {
+        "Title": "The Lord of the Rings: The Two Towers ",
+        "Year": "2002",
+        "Duration": "2h 59min",
+        "Genre": "Adventure",
+        "Rating": "The Lord of the Rings: The Two Towers ",
+        "movie_url": "https://www.imdb.com/title/tt0167261/"
+    },
+    {
+        "Title": "The Good, the Bad and the Ugly ",
+        "Year": "1966",
+        "Duration": "2h 58min",
+        "Genre": "Western",
+        "Rating": "The Good, the Bad and the Ugly ",
+        "movie_url": "https://www.imdb.com/title/tt0060196/"
+    },
+    {
+        "Title": "Goodfellas ",
+        "Year": "1990",
+        "Duration": "2h 26min",
+        "Genre": "Biography",
+        "Rating": "Goodfellas ",
+        "movie_url": "https://www.imdb.com/title/tt0099685/"
+    },
+    {
+        "Title": "Forrest Gump ",
+        "Year": "1994",
+        "Duration": "2h 22min",
+        "Genre": "Drama",
+        "Rating": "Forrest Gump ",
+        "movie_url": "https://www.imdb.com/title/tt0109830/"
+    },
+    {
+        "Title": "The Matrix ",
+        "Year": "1999",
+        "Duration": "2h 16min",
+        "Genre": "Action",
+        "Rating": "The Matrix ",
+        "movie_url": "https://www.imdb.com/title/tt0133093/"
+    },
+    {
+        "Title": "One Flew Over the Cuckoo's Nest ",
+        "Year": "1975",
+        "Duration": "2h 13min",
+        "Genre": "Drama",
+        "Rating": "One Flew Over the Cuckoo's Nest ",
+        "movie_url": "https://www.imdb.com/title/tt0073486/"
+    },
+    {
+        "Title": "Star Wars: Episode V - The Empire Strikes Back ",
+        "Year": "1980",
+        "Duration": "2h 4min",
+        "Genre": "Action",
+        "Rating": "Star Wars: Episode V - The Empire Strikes Back ",
+        "movie_url": "https://www.imdb.com/title/tt0080684/"
+    },
+    {
+        "Title": "Fight Club ",
+        "Year": "1999",
+        "Duration": "2h 19min",
+        "Genre": "Drama",
+        "Rating": "Fight Club ",
+        "movie_url": "https://www.imdb.com/title/tt0137523/"
+    },
+    {
+        "Title": "12 Angry Men ",
+        "Year": "1957",
+        "Duration": "1h 36min",
+        "Genre": "Crime",
+        "Rating": "12 Angry Men ",
+        "movie_url": "https://www.imdb.com/title/tt0050083/"
+    },
+    {
+        "Title": "Inception ",
+        "Year": "2010",
+        "Duration": "2h 28min",
+        "Genre": "Action",
+        "Rating": "Inception ",
+        "movie_url": "https://www.imdb.com/title/tt1375666/"
+    },
+    {
+        "Title": "The Lord of the Rings: The Fellowship of the Ring ",
+        "Year": "2001",
+        "Duration": "2h 58min",
+        "Genre": "Action",
+        "Rating": "The Lord of the Rings: The Fellowship of the Ring ",
+        "movie_url": "https://www.imdb.com/title/tt0120737/"
+    },
+    {
+        "Title": "Schindler's List ",
+        "Year": "1993",
+        "Duration": "3h 15min",
+        "Genre": "Biography",
+        "Rating": "Schindler's List ",
+        "movie_url": "https://www.imdb.com/title/tt0108052/"
+    },
+    {
+        "Title": "The Godfather: Part II ",
+        "Year": "1974",
+        "Duration": "3h 22min",
+        "Genre": "Crime",
+        "Rating": "The Godfather: Part II ",
+        "movie_url": "https://www.imdb.com/title/tt0071562/"
+    },
+    {
+        "Title": "Grave of the Fireflies ",
+        "Year": "1988",
+        "Duration": "1h 29min",
+        "Genre": "Animation",
+        "Rating": "Grave of the Fireflies ",
+        "movie_url": "https://www.imdb.com/title/tt0095327/"
+    },
+    {
+        "Title": "Back to the Future ",
+        "Year": "1985",
+        "Duration": "1h 56min",
+        "Genre": "Adventure",
+        "Rating": "Back to the Future ",
+        "movie_url": "https://www.imdb.com/title/tt0088763/"
+    },
+    {
+        "Title": "Cinema Paradiso ",
+        "Year": "1988",
+        "Duration": "2h 35min",
+        "Genre": "Drama",
+        "Rating": "Cinema Paradiso ",
+        "movie_url": "https://www.imdb.com/title/tt0095765/"
+    },
+    {
+        "Title": "The Lion King ",
+        "Year": "1994",
+        "Duration": "1h 28min",
+        "Genre": "Animation",
+        "Rating": "The Lion King ",
+        "movie_url": "https://www.imdb.com/title/tt0110357/"
+    },
+    {
+        "Title": "Léon: The Professional ",
+        "Year": "1994",
+        "Duration": "1h 50min",
+        "Genre": "Action",
+        "Rating": "Léon: The Professional ",
+        "movie_url": "https://www.imdb.com/title/tt0110413/"
+    },
+    {
+        "Title": "Terminator 2: Judgment Day ",
+        "Year": "1991",
+        "Duration": "2h 17min",
+        "Genre": "Action",
+        "Rating": "Terminator 2: Judgment Day ",
+        "movie_url": "https://www.imdb.com/title/tt0103064/"
+    },
+    {
+        "Title": "The Usual Suspects ",
+        "Year": "1995",
+        "Duration": "1h 46min",
+        "Genre": "Crime",
+        "Rating": "The Usual Suspects ",
+        "movie_url": "https://www.imdb.com/title/tt0114814/"
+    },
+    {
+        "Title": "American History X ",
+        "Year": "1998",
+        "Duration": "1h 59min",
+        "Genre": "Drama",
+        "Rating": "American History X ",
+        "movie_url": "https://www.imdb.com/title/tt0120586/"
+    },
+    {
+        "Title": "Gladiator ",
+        "Year": "2000",
+        "Duration": "2h 35min",
+        "Genre": "Action",
+        "Rating": "Gladiator ",
+        "movie_url": "https://www.imdb.com/title/tt0172495/"
+    },
+    {
+        "Title": "The Prestige ",
+        "Year": "2006",
+        "Duration": "2h 10min",
+        "Genre": "Drama",
+        "Rating": "The Prestige ",
+        "movie_url": "https://www.imdb.com/title/tt0482571/"
+    }[
+        {
+            "Title": "The Shawshank Redemption ",
+            "Year": "1994",
+            "Duration": "2h 22min",
+            "Genre": "Drama",
+            "Rating": "The Shawshank Redemption ",
+            "movie_url": "https://www.imdb.com/title/tt0111161/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "Nuovo Cinema Paradiso ",
+            "Year": "1988",
+            "Duration": "2h 35min",
+            "Genre": "Drama",
+            "Rating": "Nuovo Cinema Paradiso ",
+            "movie_url": "https://www.imdb.com/title/tt0095765/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "Once Upon a Time in the West ",
+            "Year": "1968",
+            "Duration": "2h 45min",
+            "Genre": "Western",
+            "Rating": "Once Upon a Time in the West ",
+            "movie_url": "https://www.imdb.com/title/tt0064116/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "Hotaru no haka ",
+            "Year": "1988",
+            "Duration": "1h 29min",
+            "Genre": "Animation",
+            "Rating": "Hotaru no haka ",
+            "movie_url": "https://www.imdb.com/title/tt0095327/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "Tengoku to jigoku ",
+            "Year": "1963",
+            "Duration": "2h 23min",
+            "Genre": "Crime",
+            "Rating": "Tengoku to jigoku ",
+            "movie_url": "https://www.imdb.com/title/tt0057565/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "Back to the Future ",
+            "Year": "1985",
+            "Duration": "1h 56min",
+            "Genre": "Adventure",
+            "Rating": "Back to the Future ",
+            "movie_url": "https://www.imdb.com/title/tt0088763/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "Terminator 2: Judgment Day ",
+            "Year": "1991",
+            "Duration": "2h 17min",
+            "Genre": "Action",
+            "Rating": "Terminator 2: Judgment Day ",
+            "movie_url": "https://www.imdb.com/title/tt0103064/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "The Lion King ",
+            "Year": "1994",
+            "Duration": "1h 28min",
+            "Genre": "Animation",
+            "Rating": "The Lion King ",
+            "movie_url": "https://www.imdb.com/title/tt0110357/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "Léon ",
+            "Year": "1994",
+            "Duration": "1h 50min",
+            "Genre": "Action",
+            "Rating": "Léon ",
+            "movie_url": "https://www.imdb.com/title/tt0110413/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "The Usual Suspects ",
+            "Year": "1995",
+            "Duration": "1h 46min",
+            "Genre": "Crime",
+            "Rating": "The Usual Suspects ",
+            "movie_url": "https://www.imdb.com/title/tt0114814/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "The Prestige ",
+            "Year": "2006",
+            "Duration": "2h 10min",
+            "Genre": "Drama",
+            "Rating": "The Prestige ",
+            "movie_url": "https://www.imdb.com/title/tt0482571/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "The Intouchables ",
+            "Year": "2011",
+            "Duration": "1h 52min",
+            "Genre": "Biography",
+            "Rating": "The Intouchables ",
+            "movie_url": "https://www.imdb.com/title/tt1675434/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "Gladiator ",
+            "Year": "2000",
+            "Duration": "2h 35min",
+            "Genre": "Action",
+            "Rating": "Gladiator ",
+            "movie_url": "https://www.imdb.com/title/tt0172495/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "American History X ",
+            "Year": "1998",
+            "Duration": "1h 59min",
+            "Genre": "Drama",
+            "Rating": "American History X ",
+            "movie_url": "https://www.imdb.com/title/tt0120586/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "The Pianist ",
+            "Year": "2002",
+            "Duration": "2h 30min",
+            "Genre": "Biography",
+            "Rating": "The Pianist ",
+            "movie_url": "https://www.imdb.com/title/tt0253474/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "The Departed ",
+            "Year": "2006",
+            "Duration": "2h 31min",
+            "Genre": "Crime",
+            "Rating": "The Departed ",
+            "movie_url": "https://www.imdb.com/title/tt0407887/?ref_=adv_li_tt"
+        },
+        {
+            "Title": "Full Metal Jacket ",
+            "Year": "1987",
+            "Duration": "1h 56min",
+            "Genre": "Drama",
+            "Rating": "Full Metal Jacket ",
+            "movie_url": "https://www.imdb.com/title/tt0093058/?ref_=adv_li_tt"
+        }[
+            {
+                "Title": "The Shawshank Redemption ",
+                "Year": "1994",
+                "Duration": "2h 22min",
+                "Genre": "Drama",
+                "Rating": "The Shawshank Redemption ",
+                "movie_url": "https://www.imdb.com/title/tt0111161/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Hotaru no haka ",
+                "Year": "1988",
+                "Duration": "1h 29min",
+                "Genre": "Animation",
+                "Rating": "Hotaru no haka ",
+                "movie_url": "https://www.imdb.com/title/tt0095327/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Tengoku to jigoku ",
+                "Year": "1963",
+                "Duration": "2h 23min",
+                "Genre": "Crime",
+                "Rating": "Tengoku to jigoku ",
+                "movie_url": "https://www.imdb.com/title/tt0057565/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Terminator 2: Judgment Day ",
+                "Year": "1991",
+                "Duration": "2h 17min",
+                "Genre": "Action",
+                "Rating": "Terminator 2: Judgment Day ",
+                "movie_url": "https://www.imdb.com/title/tt0103064/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "The Lion King ",
+                "Year": "1994",
+                "Duration": "1h 28min",
+                "Genre": "Animation",
+                "Rating": "The Lion King ",
+                "movie_url": "https://www.imdb.com/title/tt0110357/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Once Upon a Time in the West ",
+                "Year": "1968",
+                "Duration": "2h 45min",
+                "Genre": "Western",
+                "Rating": "Once Upon a Time in the West ",
+                "movie_url": "https://www.imdb.com/title/tt0064116/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Back to the Future ",
+                "Year": "1985",
+                "Duration": "1h 56min",
+                "Genre": "Adventure",
+                "Rating": "Back to the Future ",
+                "movie_url": "https://www.imdb.com/title/tt0088763/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Nuovo Cinema Paradiso ",
+                "Year": "1988",
+                "Duration": "2h 35min",
+                "Genre": "Drama",
+                "Rating": "Nuovo Cinema Paradiso ",
+                "movie_url": "https://www.imdb.com/title/tt0095765/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Léon ",
+                "Year": "1994",
+                "Duration": "1h 50min",
+                "Genre": "Action",
+                "Rating": "Léon ",
+                "movie_url": "https://www.imdb.com/title/tt0110413/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "The Usual Suspects ",
+                "Year": "1995",
+                "Duration": "1h 46min",
+                "Genre": "Crime",
+                "Rating": "The Usual Suspects ",
+                "movie_url": "https://www.imdb.com/title/tt0114814/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "American History X ",
+                "Year": "1998",
+                "Duration": "1h 59min",
+                "Genre": "Drama",
+                "Rating": "American History X ",
+                "movie_url": "https://www.imdb.com/title/tt0120586/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Gladiator ",
+                "Year": "2000",
+                "Duration": "2h 35min",
+                "Genre": "Action",
+                "Rating": "Gladiator ",
+                "movie_url": "https://www.imdb.com/title/tt0172495/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "The Departed ",
+                "Year": "2006",
+                "Duration": "2h 31min",
+                "Genre": "Crime",
+                "Rating": "The Departed ",
+                "movie_url": "https://www.imdb.com/title/tt0407887/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "The Pianist ",
+                "Year": "2002",
+                "Duration": "2h 30min",
+                "Genre": "Biography",
+                "Rating": "The Pianist ",
+                "movie_url": "https://www.imdb.com/title/tt0253474/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "The Prestige ",
+                "Year": "2006",
+                "Duration": "2h 10min",
+                "Genre": "Drama",
+                "Rating": "The Prestige ",
+                "movie_url": "https://www.imdb.com/title/tt0482571/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Full Metal Jacket ",
+                "Year": "1987",
+                "Duration": "1h 56min",
+                "Genre": "Drama",
+                "Rating": "Full Metal Jacket ",
+                "movie_url": "https://www.imdb.com/title/tt0093058/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "The Intouchables ",
+                "Year": "2011",
+                "Duration": "1h 52min",
+                "Genre": "Biography",
+                "Rating": "The Intouchables ",
+                "movie_url": "https://www.imdb.com/title/tt1675434/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Reservoir Dogs ",
+                "Year": "1992",
+                "Duration": "1h 39min",
+                "Genre": "Crime",
+                "Rating": "Reservoir Dogs ",
+                "movie_url": "https://www.imdb.com/title/tt0105236/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Braveheart ",
+                "Year": "1995",
+                "Duration": "2h 58min",
+                "Genre": "Biography",
+                "Rating": "Braveheart ",
+                "movie_url": "https://www.imdb.com/title/tt0112573/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Toy Story ",
+                "Year": "1995",
+                "Duration": "1h 21min",
+                "Genre": "Animation",
+                "Rating": "Toy Story ",
+                "movie_url": "https://www.imdb.com/title/tt0114709/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Whiplash ",
+                "Year": "2014",
+                "Duration": "1h 46min",
+                "Genre": "Drama",
+                "Rating": "Whiplash ",
+                "movie_url": "https://www.imdb.com/title/tt2582802/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Bacheha-Ye aseman ",
+                "Year": "1997",
+                "Duration": "1h 29min",
+                "Genre": "Drama",
+                "Rating": "Bacheha-Ye aseman ",
+                "movie_url": "https://www.imdb.com/title/tt0118849/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Eskiya ",
+                "Year": "1996",
+                "Duration": "2h 8min",
+                "Genre": "Crime",
+                "Rating": "Eskiya ",
+                "movie_url": "https://www.imdb.com/title/tt0116231/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Good Will Hunting ",
+                "Year": "1997",
+                "Duration": "2h 6min",
+                "Genre": "Drama",
+                "Rating": "Good Will Hunting ",
+                "movie_url": "https://www.imdb.com/title/tt0119217/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Requiem for a Dream ",
+                "Year": "2000",
+                "Duration": "1h 42min",
+                "Genre": "Drama",
+                "Rating": "Requiem for a Dream ",
+                "movie_url": "https://www.imdb.com/title/tt0180093/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "American Beauty ",
+                "Year": "1999",
+                "Duration": "2h 2min",
+                "Genre": "Drama",
+                "Rating": "American Beauty ",
+                "movie_url": "https://www.imdb.com/title/tt0169547/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Snatch ",
+                "Year": "2000",
+                "Duration": "1h 44min",
+                "Genre": "Comedy",
+                "Rating": "Snatch ",
+                "movie_url": "https://www.imdb.com/title/tt0208092/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Amélie ",
+                "Year": "2001",
+                "Duration": "2h 2min",
+                "Genre": "Comedy",
+                "Rating": "Amélie ",
+                "movie_url": "https://www.imdb.com/title/tt0211915/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Inglourious Basterds ",
+                "Year": "2009",
+                "Duration": "2h 33min",
+                "Genre": "Adventure",
+                "Rating": "Inglourious Basterds ",
+                "movie_url": "https://www.imdb.com/title/tt0361748/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Toy Story 3 ",
+                "Year": "2010",
+                "Duration": "1h 43min",
+                "Genre": "Animation",
+                "Rating": "Toy Story 3 ",
+                "movie_url": "https://www.imdb.com/title/tt0435761/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Incendies ",
+                "Year": "2010",
+                "Duration": "2h 11min",
+                "Genre": "Drama",
+                "Rating": "Incendies ",
+                "movie_url": "https://www.imdb.com/title/tt1255953/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Eternal Sunshine of the Spotless Mind ",
+                "Year": "2004",
+                "Duration": "1h 48min",
+                "Genre": "Drama",
+                "Rating": "Eternal Sunshine of the Spotless Mind ",
+                "movie_url": "https://www.imdb.com/title/tt0338013/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Babam ve Oglum ",
+                "Year": "2005",
+                "Duration": "1h 52min",
+                "Genre": "Drama",
+                "Rating": "Babam ve Oglum ",
+                "movie_url": "https://www.imdb.com/title/tt0476735/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Tonari no Totoro ",
+                "Year": "1988",
+                "Duration": "1h 26min",
+                "Genre": "Animation",
+                "Rating": "Tonari no Totoro ",
+                "movie_url": "https://www.imdb.com/title/tt0096283/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Indiana Jones and the Last Crusade ",
+                "Year": "1989",
+                "Duration": "2h 7min",
+                "Genre": "Action",
+                "Rating": "Indiana Jones and the Last Crusade ",
+                "movie_url": "https://www.imdb.com/title/tt0097576/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Unforgiven ",
+                "Year": "1992",
+                "Duration": "2h 10min",
+                "Genre": "Drama",
+                "Rating": "Unforgiven ",
+                "movie_url": "https://www.imdb.com/title/tt0105695/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Casino ",
+                "Year": "1995",
+                "Duration": "2h 58min",
+                "Genre": "Crime",
+                "Rating": "Casino ",
+                "movie_url": "https://www.imdb.com/title/tt0112641/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Heat ",
+                "Year": "1995",
+                "Duration": "2h 50min",
+                "Genre": "Crime",
+                "Rating": "Heat ",
+                "movie_url": "https://www.imdb.com/title/tt0113277/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "L.A. Confidential ",
+                "Year": "1997",
+                "Duration": "2h 18min",
+                "Genre": "Crime",
+                "Rating": "L.A. Confidential ",
+                "movie_url": "https://www.imdb.com/title/tt0119488/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Lock, Stock and Two Smoking Barrels ",
+                "Year": "1998",
+                "Duration": "1h 47min",
+                "Genre": "Action",
+                "Rating": "Lock, Stock and Two Smoking Barrels ",
+                "movie_url": "https://www.imdb.com/title/tt0120735/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Hera Pheri ",
+                "Year": "2000",
+                "Duration": "2h 36min",
+                "Genre": "Action",
+                "Rating": "Hera Pheri ",
+                "movie_url": "https://www.imdb.com/title/tt0242519/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "A Beautiful Mind ",
+                "Year": "2001",
+                "Duration": "2h 15min",
+                "Genre": "Biography",
+                "Rating": "A Beautiful Mind ",
+                "movie_url": "https://www.imdb.com/title/tt0268978/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Hauru no ugoku shiro ",
+                "Year": "2004",
+                "Duration": "1h 59min",
+                "Genre": "Animation",
+                "Rating": "Hauru no ugoku shiro ",
+                "movie_url": "https://www.imdb.com/title/tt0347149/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Der Untergang ",
+                "Year": "2004",
+                "Duration": "2h 36min",
+                "Genre": "Biography",
+                "Rating": "Der Untergang ",
+                "movie_url": "https://www.imdb.com/title/tt0363163/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Batman Begins ",
+                "Year": "2005",
+                "Duration": "2h 20min",
+                "Genre": "Action",
+                "Rating": "Batman Begins ",
+                "movie_url": "https://www.imdb.com/title/tt0372784/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Rang De Basanti ",
+                "Year": "2006",
+                "Duration": "2h 47min",
+                "Genre": "Comedy",
+                "Rating": "Rang De Basanti ",
+                "movie_url": "https://www.imdb.com/title/tt0405508/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "V for Vendetta ",
+                "Year": "2005",
+                "Duration": "2h 12min",
+                "Genre": "Action",
+                "Rating": "V for Vendetta ",
+                "movie_url": "https://www.imdb.com/title/tt0434409/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Pan's Labyrinth ",
+                "Year": "2006",
+                "Duration": "1h 58min",
+                "Genre": "Drama",
+                "Rating": "Pan's Labyrinth ",
+                "movie_url": "https://www.imdb.com/title/tt0457430/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "There Will Be Blood ",
+                "Year": "2007",
+                "Duration": "2h 38min",
+                "Genre": "Drama",
+                "Rating": "There Will Be Blood ",
+                "movie_url": "https://www.imdb.com/title/tt0469494/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Salinui chueok ",
+                "Year": "2003",
+                "Duration": "2h 11min",
+                "Genre": "Action",
+                "Rating": "Salinui chueok ",
+                "movie_url": "https://www.imdb.com/title/tt0353969/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Hotel Rwanda ",
+                "Year": "2004",
+                "Duration": "2h 1min",
+                "Genre": "Biography",
+                "Rating": "Hotel Rwanda ",
+                "movie_url": "https://www.imdb.com/title/tt0395169/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Million Dollar Baby ",
+                "Year": "2004",
+                "Duration": "2h 12min",
+                "Genre": "Drama",
+                "Rating": "Million Dollar Baby ",
+                "movie_url": "https://www.imdb.com/title/tt0405159/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "No Country for Old Men ",
+                "Year": "2007",
+                "Duration": "2h 2min",
+                "Genre": "Crime",
+                "Rating": "No Country for Old Men ",
+                "movie_url": "https://www.imdb.com/title/tt0477348/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Mary and Max ",
+                "Year": "2009",
+                "Duration": "1h 32min",
+                "Genre": "Animation",
+                "Rating": "Mary and Max ",
+                "movie_url": "https://www.imdb.com/title/tt0978762/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "How to Train Your Dragon ",
+                "Year": "2010",
+                "Duration": "1h 38min",
+                "Genre": "Animation",
+                "Rating": "How to Train Your Dragon ",
+                "movie_url": "https://www.imdb.com/title/tt0892769/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Shutter Island ",
+                "Year": "2010",
+                "Duration": "2h 18min",
+                "Genre": "Mystery",
+                "Rating": "Shutter Island ",
+                "movie_url": "https://www.imdb.com/title/tt1130884/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Hachi: A Dog's Tale ",
+                "Year": "2009",
+                "Duration": "1h 33min",
+                "Genre": "Drama",
+                "Rating": "Hachi: A Dog's Tale ",
+                "movie_url": "https://www.imdb.com/title/tt1028532/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Harry Potter and the Deathly Hallows: Part 2 ",
+                "Year": "2011",
+                "Duration": "2h 10min",
+                "Genre": "Adventure",
+                "Rating": "Harry Potter and the Deathly Hallows: Part 2 ",
+                "movie_url": "https://www.imdb.com/title/tt1201607/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Into the Wild ",
+                "Year": "2007",
+                "Duration": "2h 28min",
+                "Genre": "Adventure",
+                "Rating": "Into the Wild ",
+                "movie_url": "https://www.imdb.com/title/tt0758758/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Gran Torino ",
+                "Year": "2008",
+                "Duration": "1h 56min",
+                "Genre": "Drama",
+                "Rating": "Gran Torino ",
+                "movie_url": "https://www.imdb.com/title/tt1205489/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "The Help ",
+                "Year": "2011",
+                "Duration": "2h 26min",
+                "Genre": "Drama",
+                "Rating": "The Help ",
+                "movie_url": "https://www.imdb.com/title/tt1454029/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Spotlight ",
+                "Year": "2015",
+                "Duration": "2h 9min",
+                "Genre": "Biography",
+                "Rating": "Spotlight ",
+                "movie_url": "https://www.imdb.com/title/tt1895587/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Kill Bill: Vol. 1 ",
+                "Year": "2003",
+                "Duration": "1h 51min",
+                "Genre": "Action",
+                "Rating": "Kill Bill: Vol. 1 ",
+                "movie_url": "https://www.imdb.com/title/tt0266697/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "Mad Max: Fury Road ",
+                "Year": "2015",
+                "Duration": "2h",
+                "Genre": "Action",
+                "Rating": "Mad Max: Fury Road ",
+                "movie_url": "https://www.imdb.com/title/tt1392190/?ref_=adv_li_tt"
+            },
+            {
+                "Title": "The Terminator ",
+                "Year": "1984",
+                "Duration": "1h 47min",
+                "Genre": "Action",
+                "Rating": "The Terminator ",
+                "movie_url": "https://www.imdb.com/title/tt0088247/?ref_=adv_li_tt"
+            }
