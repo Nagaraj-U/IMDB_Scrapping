@@ -1,0 +1,251 @@
+title,year,duration,genre,rating
+The Shawshank Redemption ,1994,2h 22min,Drama,The Shawshank Redemption 
+Nuovo Cinema Paradiso ,1988,2h 35min,Drama,Nuovo Cinema Paradiso 
+Back to the Future ,1985,1h 56min,Adventure,Back to the Future 
+Tengoku to jigoku ,1963,2h 23min,Crime,Tengoku to jigoku 
+Terminator 2: Judgment Day ,1991,2h 17min,Action,Terminator 2: Judgment Day 
+The Lion King ,1994,1h 28min,Animation,The Lion King 
+Once Upon a Time in the West ,1968,2h 45min,Western,Once Upon a Time in the West 
+Hotaru no haka ,1988,1h 29min,Animation,Hotaru no haka 
+Léon ,1994,1h 50min,Action,Léon 
+American History X ,1998,1h 59min,Drama,American History X 
+Gladiator ,2000,2h 35min,Action,Gladiator 
+The Usual Suspects ,1995,1h 46min,Crime,The Usual Suspects 
+The Prestige ,2006,2h 10min,Drama,The Prestige 
+The Departed ,2006,2h 31min,Crime,The Departed 
+The Pianist ,2002,2h 30min,Biography,The Pianist 
+The Intouchables ,2011,1h 52min,Biography,The Intouchables 
+Shichinin no samurai ,1954,3h 27min,Action,Shichinin no samurai 
+Joker ,2019,2h 2min,Crime,Joker 
+Anand ,1971,2h 2min,Drama,Anand 
+Avengers: Infinity War ,2018,2h 29min,Action,Avengers: Infinity War 
+Star Wars ,1977,2h 1min,Action,Star Wars 
+The Silence of the Lambs ,1991,1h 58min,Crime,The Silence of the Lambs 
+Whiplash ,2014,1h 46min,Drama,Whiplash 
+Se7en ,1995,2h 7min,Crime,Se7en 
+The Green Mile ,1999,3h 9min,Crime,The Green Mile 
+La vita è bella ,1997,1h 56min,Comedy,La vita è bella 
+Saving Private Ryan ,1998,2h 49min,Drama,Saving Private Ryan 
+Sen to Chihiro no kamikakushi ,2001,2h 5min,Animation,Sen to Chihiro no kamikakushi 
+Cidade de Deus ,2002,2h 10min,Crime,Cidade de Deus 
+Braveheart ,1995,2h 58min,Biography,Braveheart 
+Reservoir Dogs ,1992,1h 39min,Crime,Reservoir Dogs 
+Full Metal Jacket ,1987,1h 56min,Drama,Full Metal Jacket 
+Interstellar ,2014,2h 49min,Adventure,Interstellar 
+Toy Story ,1995,1h 21min,Animation,Toy Story 
+Eskiya ,1996,2h 8min,Crime,Eskiya 
+Bacheha-Ye aseman ,1997,1h 29min,Drama,Bacheha-Ye aseman 
+Good Will Hunting ,1997,2h 6min,Drama,Good Will Hunting 
+Requiem for a Dream ,2000,1h 42min,Drama,Requiem for a Dream 
+American Beauty ,1999,2h 2min,Drama,American Beauty 
+Eternal Sunshine of the Spotless Mind ,2004,1h 48min,Drama,Eternal Sunshine of the Spotless Mind 
+Amélie ,2001,2h 2min,Comedy,Amélie 
+It's a Wonderful Life ,1946,2h 10min,Drama,It's a Wonderful Life 
+Snatch ,2000,1h 44min,Comedy,Snatch 
+Inglourious Basterds ,2009,2h 33min,Adventure,Inglourious Basterds 
+Unforgiven ,1992,2h 10min,Drama,Unforgiven 
+Tonari no Totoro ,1988,1h 26min,Animation,Tonari no Totoro 
+Indiana Jones and the Last Crusade ,1989,2h 7min,Action,Indiana Jones and the Last Crusade 
+Casino ,1995,2h 58min,Crime,Casino 
+L.A. Confidential ,1997,2h 18min,Crime,L.A. Confidential 
+Hauru no ugoku shiro ,2004,1h 59min,Animation,Hauru no ugoku shiro 
+Der Untergang ,2004,2h 36min,Biography,Der Untergang 
+Batman Begins ,2005,2h 20min,Action,Batman Begins 
+Hera Pheri ,2000,2h 36min,Action,Hera Pheri 
+"Lock, Stock and Two Smoking Barrels ",1998,1h 47min,Action,"Lock, Stock and Two Smoking Barrels "
+V for Vendetta ,2005,2h 12min,Action,V for Vendetta 
+Rang De Basanti ,2006,2h 47min,Comedy,Rang De Basanti 
+A Beautiful Mind ,2001,2h 15min,Biography,A Beautiful Mind 
+Million Dollar Baby ,2004,2h 12min,Drama,Million Dollar Baby 
+Heat ,1995,2h 50min,Crime,Heat 
+No Country for Old Men ,2007,2h 2min,Crime,No Country for Old Men 
+Pan's Labyrinth ,2006,1h 58min,Drama,Pan's Labyrinth 
+How to Train Your Dragon ,2010,1h 38min,Animation,How to Train Your Dragon 
+Salinui chueok ,2003,2h 11min,Action,Salinui chueok 
+Mary and Max ,2009,1h 32min,Animation,Mary and Max 
+Shutter Island ,2010,2h 18min,Mystery,Shutter Island 
+Hachi: A Dog's Tale ,2009,1h 33min,Drama,Hachi: A Dog's Tale 
+Into the Wild ,2007,2h 28min,Adventure,Into the Wild 
+Hotel Rwanda ,2004,2h 1min,Biography,Hotel Rwanda 
+Mad Max: Fury Road ,2015,2h,Action,Mad Max: Fury Road 
+Harry Potter and the Deathly Hallows: Part 2 ,2011,2h 10min,Adventure,Harry Potter and the Deathly Hallows: Part 2 
+12 Years a Slave ,2013,2h 14min,Biography,12 Years a Slave 
+Spotlight ,2015,2h 9min,Biography,Spotlight 
+The Help ,2011,2h 26min,Drama,The Help 
+The Terminator ,1984,1h 47min,Action,The Terminator 
+Aladdin ,1992,1h 30min,Animation,Aladdin 
+"Monsters, Inc. ",2001,1h 32min,Animation,"Monsters, Inc. "
+The General ,1926,1h 7min,Action,The General 
+La passion de Jeanne d'Arc ,1928,1h 50min,Biography,La passion de Jeanne d'Arc 
+It Happened One Night ,1934,1h 45min,Comedy,It Happened One Night 
+Gone with the Wind ,1939,3h 58min,Drama,Gone with the Wind 
+Mr. Smith Goes to Washington ,1939,2h 9min,Comedy,Mr. Smith Goes to Washington 
+The Third Man ,1949,1h 44min,Film-Noir,The Third Man 
+Rebecca ,1940,2h 10min,Drama,Rebecca 
+Before Sunset ,2004,1h 20min,Drama,Before Sunset 
+Le salaire de la peur ,1953,2h 11min,Adventure,Le salaire de la peur 
+Prisoners ,2013,2h 33min,Crime,Prisoners 
+On the Waterfront ,1954,1h 48min,Crime,On the Waterfront 
+The Bridge on the River Kwai ,1957,2h 41min,Adventure,The Bridge on the River Kwai 
+Ben-Hur ,1959,3h 32min,Adventure,Ben-Hur 
+Kumonosu-jô ,1957,1h 50min,Drama,Kumonosu-jô 
+Gran Torino ,2008,1h 56min,Drama,Gran Torino 
+Andrei Rublev ,1966,3h 25min,Biography,Andrei Rublev 
+Les quatre cents coups ,1959,1h 39min,Crime,Les quatre cents coups 
+Cool Hand Luke ,1967,2h 7min,Crime,Cool Hand Luke 
+Barry Lyndon ,1975,3h 5min,Adventure,Barry Lyndon 
+Rocky ,1976,2h,Drama,Rocky 
+Persona ,1966,1h 25min,Drama,Persona 
+Network ,1976,2h 1min,Drama,Network 
+Life of Brian ,1979,1h 34min,Comedy,Life of Brian 
+The Deer Hunter ,1978,3h 3min,Drama,The Deer Hunter 
+Blade Runner ,1982,1h 57min,Action,Blade Runner 
+The Elephant Man ,1980,2h 4min,Biography,The Elephant Man 
+The Thing ,1982,1h 49min,Horror,The Thing 
+Kaze no tani no Naushika ,1984,1h 57min,Animation,Kaze no tani no Naushika 
+Ford v. Ferrari ,2019,2h 32min,Action,Ford v. Ferrari 
+"Paris, Texas ",1984,2h 25min,Drama,"Paris, Texas "
+Platoon ,1986,2h,Drama,Platoon 
+The Princess Bride ,1987,1h 38min,Adventure,The Princess Bride 
+Dead Poets Society ,1989,2h 8min,Comedy,Dead Poets Society 
+Rush ,2013,2h 3min,Biography,Rush 
+Fanny och Alexander ,1982,3h 8min,Drama,Fanny och Alexander 
+Before Sunrise ,1995,1h 41min,Drama,Before Sunrise 
+Stand by Me ,1986,1h 29min,Adventure,Stand by Me 
+In the Name of the Father ,1993,2h 13min,Biography,In the Name of the Father 
+Jurassic Park ,1993,2h 7min,Action,Jurassic Park 
+Fargo ,1996,1h 38min,Crime,Fargo 
+La haine ,1995,1h 38min,Crime,La haine 
+Trainspotting ,1996,1h 33min,Drama,Trainspotting 
+Fa yeung nin wah ,2000,1h 38min,Drama,Fa yeung nin wah 
+The Big Lebowski ,1998,1h 57min,Comedy,The Big Lebowski 
+Amores perros ,2000,2h 34min,Drama,Amores perros 
+Catch Me If You Can ,2002,2h 21min,Biography,Catch Me If You Can 
+Finding Nemo ,2003,1h 40min,Animation,Finding Nemo 
+The Sixth Sense ,1999,1h 47min,Drama,The Sixth Sense 
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni ",1997,1h 27min,Animation,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni "
+Inside Out ,2015,1h 35min,Animation,Inside Out 
+Hacksaw Ridge ,2016,2h 19min,Biography,Hacksaw Ridge 
+Kill Bill: Vol. 1 ,2003,1h 51min,Action,Kill Bill: Vol. 1 
+Gone Girl ,2014,2h 29min,Drama,Gone Girl 
+The Grand Budapest Hotel ,2014,1h 39min,Adventure,The Grand Budapest Hotel 
+Relatos salvajes ,2014,2h 2min,Comedy,Relatos salvajes 
+Ah-ga-ssi ,2016,2h 25min,Drama,Ah-ga-ssi 
+Sherlock Jr. ,1924,45min,Action,Sherlock Jr. 
+Contratiempo ,2016,1h 46min,Crime,Contratiempo 
+Portrait de la jeune fille en feu ,2019,2h 2min,Drama,Portrait de la jeune fille en feu 
+The Circus ,1928,1h 12min,Comedy,The Circus 
+The Truman Show ,1998,1h 43min,Comedy,The Truman Show 
+To Be or Not to Be ,1942,1h 39min,Comedy,To Be or Not to Be 
+The Gold Rush ,1925,1h 35min,Adventure,The Gold Rush 
+Room ,2015,1h 58min,Drama,Room 
+Logan ,2017,2h 17min,Action,Logan 
+All About Eve ,1950,2h 18min,Drama,All About Eve 
+Rashômon ,1950,1h 28min,Crime,Rashômon 
+Dial M for Murder ,1954,1h 45min,Crime,Dial M for Murder 
+Tôkyô monogatari ,1953,2h 16min,Drama,Tôkyô monogatari 
+Some Like It Hot ,1959,2h 1min,Comedy,Some Like It Hot 
+Judgment at Nuremberg ,1961,2h 59min,Drama,Judgment at Nuremberg 
+Det sjunde inseglet ,1957,1h 36min,Drama,Det sjunde inseglet 
+Yôjinbô ,1961,1h 50min,Action,Yôjinbô 
+The Treasure of the Sierra Madre ,1948,2h 6min,Adventure,The Treasure of the Sierra Madre 
+To Kill a Mockingbird ,1962,2h 9min,Crime,To Kill a Mockingbird 
+Smultronstället ,1957,1h 31min,Drama,Smultronstället 
+Chinatown ,1974,2h 10min,Drama,Chinatown 
+Monty Python and the Holy Grail ,1975,1h 31min,Adventure,Monty Python and the Holy Grail 
+The Great Escape ,1963,2h 52min,Adventure,The Great Escape 
+Raging Bull ,1980,2h 9min,Biography,Raging Bull 
+Ran ,1985,2h 42min,Action,Ran 
+Chak De! India ,2007,2h 33min,Drama,Chak De! India 
+Die Hard ,1988,2h 12min,Action,Die Hard 
+The Wolf of Wall Street ,2013,3h,Biography,The Wolf of Wall Street 
+Warrior ,2011,2h 20min,Drama,Warrior 
+Stalker ,1979,2h 42min,Drama,Stalker 
+El secreto de sus ojos ,2009,2h 9min,Drama,El secreto de sus ojos 
+Gangs of Wasseypur ,2012,5h 21min,Action,Gangs of Wasseypur 
+Up ,2009,1h 36min,Animation,Up 
+Klaus ,2019,1h 36min,Animation,Klaus 
+Drishyam ,2015,2h 43min,Crime,Drishyam 
+"Three Billboards Outside Ebbing, Missouri ",2017,1h 55min,Comedy,"Three Billboards Outside Ebbing, Missouri "
+Green Book ,2018,2h 10min,Biography,Green Book 
+The Kid ,1921,1h 8min,Comedy,The Kid 
+M - Eine Stadt sucht einen Mörder ,1931,1h 57min,Crime,M - Eine Stadt sucht einen Mörder 
+Koe no katachi ,2016,2h 10min,Animation,Koe no katachi 
+Citizen Kane ,1941,1h 59min,Drama,Citizen Kane 
+Double Indemnity ,1944,1h 47min,Crime,Double Indemnity 
+Metropolis ,1927,2h 33min,Drama,Metropolis 
+There Will Be Blood ,2007,2h 38min,Drama,There Will Be Blood 
+Ladri di biciclette ,1948,1h 29min,Drama,Ladri di biciclette 
+Ikiru ,1952,2h 23min,Drama,Ikiru 
+Singin' in the Rain ,1952,1h 43min,Comedy,Singin' in the Rain 
+North by Northwest ,1959,2h 16min,Adventure,North by Northwest 
+Vertigo ,1958,2h 8min,Mystery,Vertigo 
+Lawrence of Arabia ,1962,3h 48min,Adventure,Lawrence of Arabia 
+2001: A Space Odyssey ,1968,2h 29min,Adventure,2001: A Space Odyssey 
+A Clockwork Orange ,1971,2h 16min,Crime,A Clockwork Orange 
+The Apartment ,1960,2h 5min,Comedy,The Apartment 
+The Sting ,1973,2h 9min,Comedy,The Sting 
+Taxi Driver ,1976,1h 54min,Crime,Taxi Driver 
+Per qualche dollaro in più ,1965,2h 12min,Western,Per qualche dollaro in più 
+Star Wars: Episode VI - Return of the Jedi ,1983,2h 11min,Action,Star Wars: Episode VI - Return of the Jedi 
+Scarface ,1983,2h 50min,Crime,Scarface 
+Amadeus ,1984,2h 40min,Biography,Amadeus 
+Das Boot ,1981,2h 29min,Adventure,Das Boot 
+Idi i smotri ,1985,2h 22min,Drama,Idi i smotri 
+Toy Story 3 ,2010,1h 43min,Animation,Toy Story 3 
+Aliens ,1986,2h 17min,Action,Aliens 
+Jodaeiye Nader az Simin ,2011,2h 3min,Drama,Jodaeiye Nader az Simin 
+Jagten ,2012,1h 55min,Drama,Jagten 
+1917 ,2019,1h 59min,Drama,1917 
+Andhadhun ,2018,2h 19min,Crime,Andhadhun 
+The Great Dictator ,1940,2h 5min,Comedy,The Great Dictator 
+Incendies ,2010,2h 11min,Drama,Incendies 
+Sunset Blvd. ,1950,1h 50min,Drama,Sunset Blvd. 
+Babam ve Oglum ,2005,1h 52min,Drama,Babam ve Oglum 
+Rear Window ,1954,1h 52min,Mystery,Rear Window 
+Paths of Glory ,1957,1h 28min,Drama,Paths of Glory 
+Witness for the Prosecution ,1957,1h 56min,Crime,Witness for the Prosecution 
+Alien ,1979,1h 57min,Horror,Alien 
+The Shining ,1980,2h 26min,Drama,The Shining 
+Apocalypse Now ,1979,2h 27min,Drama,Apocalypse Now 
+Once Upon a Time in America ,1984,3h 49min,Crime,Once Upon a Time in America 
+Mononoke-hime ,1997,2h 14min,Animation,Mononoke-hime 
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ,1964,1h 35min,Comedy,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 
+Memento ,2000,1h 53min,Mystery,Memento 
+Oldeuboi ,2003,1h 41min,Action,Oldeuboi 
+The Lives of Others ,2006,2h 17min,Drama,The Lives of Others 
+Taare Zameen Par ,2007,2h 45min,Drama,Taare Zameen Par 
+3 Idiots ,2009,2h 50min,Comedy,3 Idiots 
+Django Unchained ,2012,2h 45min,Drama,Django Unchained 
+Coco ,2017,1h 45min,Animation,Coco 
+WALL·E ,2008,1h 38min,Animation,WALL·E 
+Raiders of the Lost Ark ,1981,1h 55min,Action,Raiders of the Lost Ark 
+Avengers: Endgame ,2019,3h 1min,Action,Avengers: Endgame 
+The Dark Knight Rises ,2012,2h 44min,Action,The Dark Knight Rises 
+Spider-Man: Into the Spider-Verse ,2018,1h 57min,Animation,Spider-Man: Into the Spider-Verse 
+Dangal ,2016,2h 41min,Action,Dangal 
+Kimi no na wa. ,2016,1h 46min,Animation,Kimi no na wa. 
+Capharnaüm ,2018,2h 6min,Drama,Capharnaüm 
+Casablanca ,1942,1h 42min,Drama,Casablanca 
+Gisaengchung ,2019,2h 12min,Comedy,Gisaengchung 
+City Lights ,1931,1h 27min,Comedy,City Lights 
+Seppuku ,1962,2h 13min,Action,Seppuku 
+One Flew Over the Cuckoo's Nest ,1975,2h 13min,Drama,One Flew Over the Cuckoo's Nest 
+Star Wars: Episode V - The Empire Strikes Back ,1980,2h 4min,Action,Star Wars: Episode V - The Empire Strikes Back 
+Psycho ,1960,1h 49min,Horror,Psycho 
+Goodfellas ,1990,2h 26min,Biography,Goodfellas 
+The Matrix ,1999,2h 16min,Action,The Matrix 
+"Il buono, il brutto, il cattivo ",1966,2h 41min,Western,"Il buono, il brutto, il cattivo "
+Modern Times ,1936,1h 27min,Comedy,Modern Times 
+Forrest Gump ,1994,2h 22min,Drama,Forrest Gump 
+The Lord of the Rings: The Two Towers ,2002,2h 59min,Adventure,The Lord of the Rings: The Two Towers 
+The Lord of the Rings: The Fellowship of the Ring ,2001,2h 58min,Action,The Lord of the Rings: The Fellowship of the Ring 
+Inception ,2010,2h 28min,Action,Inception 
+Fight Club ,1999,2h 19min,Drama,Fight Club 
+Schindler's List ,1993,3h 15min,Biography,Schindler's List 
+The Lord of the Rings: The Return of the King ,2003,3h 21min,Adventure,The Lord of the Rings: The Return of the King 
+The Dark Knight ,2008,2h 32min,Action,The Dark Knight 
+The Godfather: Part II ,1974,3h 22min,Crime,The Godfather: Part II 
+The Godfather ,1972,2h 55min,Crime,The Godfather 
+12 Angry Men ,1957,1h 36min,Crime,12 Angry Men 
+Pulp Fiction ,1994,2h 34min,Crime,Pulp Fiction 
