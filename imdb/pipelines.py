@@ -17,7 +17,7 @@ import sqlite3
 #     #     logging.warning(crawler.settings.get("mongo_uri"))
 
 #     def open_spider(self,spider):
-#         self.client=pymongo.MongoClient("mongodb+srv://nagaraj:123@cluster0-qu8sr.mongodb.net/IMDB?retryWrites=true&w=majority")
+#         self.client=pymongo.MongoClient("mongodb+srv://nagaraj:123@cluster0-qu8sr.mongodb.net/IMDB?retryWrites=true&w=majority")#use db name accordingly
 #         self.db=self.client["IMDB"]
 
 #     def close_spider(self,spider):
