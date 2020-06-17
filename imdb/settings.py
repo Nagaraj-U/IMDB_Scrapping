@@ -63,18 +63,16 @@ DEFAULT_REQUEST_HEADERS = {
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
+
+#FOR SQL FORMAT
+ITEM_PIPELINES = {
+   'imdb.pipelines.SQLlitePipeline': 300
+}
+
+#FOR MONGODB
 # ITEM_PIPELINES = {
 #    'imdb.pipelines.MongodbPipeline': 300
 # }
-
-# ITEM_PIPELINES = {
-#    'imdb.pipelines.SQLlitePipeline': 300
-# }
-
-
-ITEM_PIPELINES = {
-   'imdb.pipelines.MongodbPipeline': 300
-}
 
 
 
